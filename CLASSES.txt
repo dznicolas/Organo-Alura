@@ -1,0 +1,17 @@
+Raças:
+Humanos
+Elfos
+Gnomos
+Meio-Elfos
+Meio-orcs
+Halflings
+Anões
+
+Classes:
+Bárbaro
+Bardo
+Bruxo
+Clérigo
+Guardião
+Guerreiro
+Paladino
