@@ -1,0 +1,9 @@
+header {
+    text-align: center;
+    background: url(/public/imagens/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 430px;
+    background-position: center;
+    border: 2px solid #0c0a41;
+}

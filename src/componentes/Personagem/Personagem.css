@@ -1,0 +1,39 @@
+.personagem {
+    width: 280px;
+}
+
+.personagem .cabecalho {
+    background-color:  #F0F0F0;
+    border-radius: 10px 10px 0px 0px;
+}
+.personagem img {
+    max-width: 115px;
+    border-radius: 13%;
+    position: relative;
+    bottom: -50px;
+    object-fit: cover;
+}
+
+.personagem .rodape {
+    background: #FFFFFF;
+    box-shadow: 5px 5px 15px rgb(0 0 0 / 8%);
+    border-radius: 0px 0px 10px 10px;
+    padding-top: 45px;
+    padding-bottom: 20px;
+}
+
+.personagem .rodape h4 {
+    color: #151c4c;
+    font-size: 25px;
+    line-height: 15px;
+    font-weight: 700;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+}
+
+.personagem .rodape h5 {
+    font-size: 22px;
+    line-height: 22px;
+    color: #212121;
+    padding: 0 16px;
+}
